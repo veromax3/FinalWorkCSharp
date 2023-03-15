@@ -23,7 +23,8 @@
 >> ## *Создание блок-схемы алгоритма* ##  
 
 На сайте https://app.diagrams.net/  создаем блок-схему алгоритма  программы. 
-![Значение_блоков](Blocks.png)  
+https://drive.google.com/drive/folders/1H_EEWgR-OFEwrzbtJ7bYA0J1qqn3juWQ  
+
 
 
 
